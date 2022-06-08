@@ -1,1 +1,1 @@
-# Salt-PepperNoiseRemoval-Cpp
+# Salt-PepperNoiseRemoval-Cpp and OpenCV
