@@ -1,4 +1,4 @@
-## Salt-PepperNoiseRemoval-Cpp and OpenCV
+## Salt-PepperNoiseRemoval using Cpp, OpenCV, Visual Studio Code
 
 # Problem Statement 
 Design and Implement a technique for removing Salt and Pepper Noise removal using averaging filter in C++ using
